@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idodygan
 - 👀 I’m interested in using AI and coding solutions as a Project Assistant
-- 🌱 I’m currently learning how execute a project from scratch
+- 🌱 I’m currently learning how to execute a project from scratch
 
 <!---
 idodygan/idodygan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
